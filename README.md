@@ -16,9 +16,9 @@ This paper proposes a method to estimate spillover effects of a random treatment
 
 **[`Data_Laptops.ipynb`](notebooks/Data_Laptops.ipynb)** contains the code to generate the data used in the empirical application.
 
-**`notebooks/Spillover_Bounds.ipynb`** contains the code to estimate the spillover bounds.
+**[`Spillover_Bounds.ipynb`](notebooks/Spillover_Bounds.ipynb)** contains the code to estimate the spillover bounds.
 
-**`notebooks/Simulation.ipynb`** contains the code to replicate the simulation study.
+**[`Simulation.ipynb`](notebooks/Simulation.ipynb)**contains the code to replicate the simulation study.
 
 
 ## Citation
